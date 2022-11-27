@@ -213,3 +213,28 @@ Si lo abrimos estan todos los pasos con el error que reportamos y con la captura
 Podemos seguir agregando Casos de Prueba a la **Issue** con los 3 puntitos.  
 
 ![reportar6](./img/reportar6.jpg)
+
+Para el TP FINAL en cada **Issue** podemos escribir nuestros propios casos de prueba.
+
+![issue2](./img/issue2.jpg)
+
+Aqui entramos  
+
+![issue3](./img/issue3.jpg)  
+
+Y vamos creando nuestros propios casos  
+
+![issue4](./img/issue4.jpg)  
+
+Aquí escribimos nuestros casos de prueba que vamos sacando de los requerimientos.
+
+![issue5](./img/issue5.jpg)  
+![issue6](./img/issue6.jpg)  
+
+Vamos a cada caso de prueba  
+
+![issue7](./img/issue7.jpg)  
+
+Y lo podemos editar
+
+![issue8](./img/issue8.jpg)
