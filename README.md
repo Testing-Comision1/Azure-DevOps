@@ -164,9 +164,11 @@ Ejemplo
 
 Discussion
 
-![insertar5](./img/insertar5.jpg)  
+![insertar5](./img/insertar5.jpg)
 
-Para ejecutar el caso de Prueba voy a los 3 puntitos y luego Run test 
+# Ejecutar Caso de Prueba  
+
+Para ejecutar el caso de Prueba voy a los 3 puntitos y luego Run test  
 
 ![ejecutar](./img/ejecutar.jpg)
 
